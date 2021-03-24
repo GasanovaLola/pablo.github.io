@@ -1,0 +1,20 @@
+.footer {
+    background-color: #3b4b60;
+    margin-top: 90px;
+    padding: 90px 0;
+}
+.ul-footer {
+    list-style-type: none;
+}
+.item-footer {
+    text-decoration: none;
+    letter-spacing: 2px;    
+    line-height: 38px;
+    color: #c6cdda;
+}
+.item-footer li span {
+    border-bottom: 2px solid #3b4b60;
+}
+.item-footer li span:hover {
+    border-bottom: 2px solid #c6cdda;
+}
